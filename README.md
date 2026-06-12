@@ -114,7 +114,7 @@ MAIL A ANALIZAR:
 | Imagen 2 | Interfaz de alertas | "Dashboard UI mockup for a logistics coordinator showing email alerts classified by urgency: red, yellow and green indicators. Container numbers, client names and pickup dates visible. Modern flat design, dark mode." |
 | Imagen 3 | Contexto logístico | "Aerial view of a fiscal warehouse next to a port in Argentina. Shipping containers being moved by trucks. Professional corporate photography style, golden hour lighting." |
 
-
+![Flujo operativo](imagen1.png)
 
 ---
 
@@ -128,7 +128,7 @@ MAIL A ANALIZAR:
 | Audio 1 | Presentación del sistema | "Este sistema utiliza inteligencia artificial para detectar automáticamente los correos de solicitud de traslado de contenedores, eliminando el riesgo de pérdidas operativas por no lectura. Cada mail es clasificado por urgencia y el coordinador recibe una alerta inmediata." |
 | Audio 2 | Alerta tipo al coordinador | "Atención coordinador: se detectó un nuevo pedido de retiro de contenedor con urgencia alta. Cliente: Importadora del Sur. Retiro solicitado para mañana a las ocho horas. Por favor, confirmar disponibilidad de transporte." |
 
-*(Reemplazar con los archivos de audio una vez subidos al repositorio)*
+[🔊 Escuchar Audio 1](audio1.mp3)
 
 ---
 
