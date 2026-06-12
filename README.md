@@ -114,7 +114,7 @@ MAIL A ANALIZAR:
 | Imagen 2 | Interfaz de alertas | "Dashboard UI mockup for a logistics coordinator showing email alerts classified by urgency: red, yellow and green indicators. Container numbers, client names and pickup dates visible. Modern flat design, dark mode." |
 | Imagen 3 | Contexto logístico | "Aerial view of a fiscal warehouse next to a port in Argentina. Shipping containers being moved by trucks. Professional corporate photography style, golden hour lighting." |
 
-*(Reemplazar con las imágenes generadas una vez subidas al repositorio)*
+
 
 ---
 
